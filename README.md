@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Hian Claudio
 
-💻 Análista de Sistemas | Desenvolvedor Web | Back-end & Fullstack  
+💻 Analista de Sistemas | Desenvolvedor Web | Back-end & Fullstack  
 🚀 Apaixonado por tecnologia, inovação e soluções escaláveis  
 
 ---
@@ -10,6 +10,7 @@
 ### 🔹 Back-end:
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+![Django REST Framework](https://img.shields.io/badge/DRF-000?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
 
 ### 🔹 Banco de Dados:
