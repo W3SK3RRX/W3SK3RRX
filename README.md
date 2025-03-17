@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Hian Claudio
 
 💻 Analista de Sistemas | Desenvolvedor Web | Back-end & Fullstack  
-🚀 Apaixonado por tecnologia, inovação e soluções escaláveis  
+🚀 Tecnologia, inovação e soluções escaláveis  
 
 ---
 
