@@ -78,6 +78,28 @@ Acredito que boa tecnologia resolve problemas reais — e que clareza no código
 - ⚡ Sempre aberto a **novos desafios e colaborações**
 
 </td>
+<td width="50%" valign="top">
+
+### 📊 GitHub Stats
+
+![Hian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=W3SK3RRX&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=W3SK3RRX&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W3SK3RRX&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hian-claudio/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/W3SK3RRX)
+
+📩 hianclaudio16@gmail.com
+
+</td>
+</tr>
+</table>
 
 ---
 
