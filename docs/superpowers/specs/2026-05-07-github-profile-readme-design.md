@@ -67,11 +67,7 @@ Links âncora que saltam para a seção `#português` ou `#english` dentro do me
    - `github-readme-stats` (stats gerais, theme: radical)
    - `github-readme-streak-stats` (sequência de commits)
    - `github-readme-stats` top-langs (layout: compact)
-5. **🚀 Projetos em destaque** — 2-3 cards linkando os melhores repositórios, cada um com:
-   - Nome do projeto
-   - Descrição de 1 linha
-   - Linguagem/stack principal
-6. **📬 Contato** — LinkedIn, GitHub, e-mail
+5. **📬 Contato** — LinkedIn, GitHub, e-mail
 
 ---
 
@@ -85,7 +81,6 @@ Mesma estrutura do bloco PT, traduzida para inglês. Seções equivalentes:
 | 🛠️ Stack | 🛠️ Tech Stack |
 | 🔭 Atualmente | 🔭 Currently |
 | 📊 GitHub Stats | 📊 GitHub Stats |
-| 🚀 Projetos em destaque | 🚀 Featured Projects |
 | 📬 Contato | 📬 Contact |
 
 Os widgets de stats são compartilhados (mesmas URLs), sem duplicação desnecessária — apenas as seções de texto (bio, "atualmente", projetos) são traduzidas.
@@ -123,11 +118,7 @@ Os widgets de stats são compartilhados (mesmas URLs), sem duplicação desneces
 
 ## Conteúdo a preencher (pelo usuário)
 
-Antes da implementação, o usuário precisa definir:
-
-1. **Bio curta** — 3-4 linhas descrevendo quem é, o que constrói e o que valoriza (PT e EN)
-2. **"Atualmente"** — O que está trabalhando agora, o que está aprendendo (PT e EN)
-3. **Projetos em destaque** — 2-3 repositórios com nome e descrição de 1 linha (PT e EN)
+Decisão: usar o conteúdo default escrito no plano para bio e "atualmente" — o usuário pode editar depois manualmente se quiser personalizar.
 
 ---
 
@@ -138,4 +129,4 @@ Antes da implementação, o usuário precisa definir:
 - [ ] Layout de duas colunas renderiza corretamente no GitHub (desktop)
 - [ ] Todos os widgets de stats carregam com theme radical
 - [ ] Badges de tech agrupados por categoria com cores distintas
-- [ ] Seção PT e EN completas e consistentes
+- [ ] Seções PT e EN completas e consistentes

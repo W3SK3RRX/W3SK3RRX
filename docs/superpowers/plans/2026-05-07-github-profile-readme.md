@@ -216,17 +216,6 @@ Logo após o `</td>` da coluna esquerda, adicione:
 
 ---
 
-### 🚀 Projetos em destaque
-
-<!-- PREENCHA: substitua REPO_NAME pelos nomes reais dos seus repositórios -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=W3SK3RRX&repo=REPO_NAME_1&theme=radical&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=3fb950)](https://github.com/W3SK3RRX/REPO_NAME_1)
-
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=W3SK3RRX&repo=REPO_NAME_2&theme=radical&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=3fb950)](https://github.com/W3SK3RRX/REPO_NAME_2)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=W3SK3RRX&repo=REPO_NAME_3&theme=radical&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=3fb950)](https://github.com/W3SK3RRX/REPO_NAME_3)
-
----
-
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hian-claudio/)
@@ -251,19 +240,11 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=W3SK3RRX&layout=c
 
 Cada URL deve retornar uma imagem SVG com dados reais do usuário W3SK3RRX.
 
-- [ ] **Step 3: Preencher nomes dos projetos em destaque**
-
-Substitua `REPO_NAME_1`, `REPO_NAME_2`, `REPO_NAME_3` pelos nomes reais dos repositórios mais relevantes do perfil. Para listar os repos disponíveis:
-
-```bash
-gh repo list W3SK3RRX --limit 20 --json name,description,primaryLanguage
-```
-
-- [ ] **Step 4: Commit**
+- [ ] **Step 3: Commit**
 
 ```bash
 git add README.md
-git commit -m "feat(readme): add PT right column - stats, projects, contact"
+git commit -m "feat(readme): add PT right column - stats, contact"
 ```
 
 ---
@@ -357,17 +338,6 @@ I believe good technology solves real problems — and that clear code is a sign
 
 ---
 
-### 🚀 Featured Projects
-
-<!-- PREENCHA: mesmos repos do bloco PT — substitua REPO_NAME pelos nomes reais -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=W3SK3RRX&repo=REPO_NAME_1&theme=radical&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=3fb950)](https://github.com/W3SK3RRX/REPO_NAME_1)
-
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=W3SK3RRX&repo=REPO_NAME_2&theme=radical&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=3fb950)](https://github.com/W3SK3RRX/REPO_NAME_2)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=W3SK3RRX&repo=REPO_NAME_3&theme=radical&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=3fb950)](https://github.com/W3SK3RRX/REPO_NAME_3)
-
----
-
 ### 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hian-claudio/)
@@ -380,11 +350,7 @@ I believe good technology solves real problems — and that clear code is a sign
 </table>
 ```
 
-- [ ] **Step 2: Preencher REPO_NAME nos projetos EN**
-
-Use os mesmos nomes de repositório definidos na Task 4 Step 3. Substitua os três `REPO_NAME_1/2/3` no bloco EN.
-
-- [ ] **Step 3: Commit**
+- [ ] **Step 2: Commit**
 
 ```bash
 git add README.md
@@ -420,23 +386,13 @@ Teste manualmente os dois links do toggle após push:
 - `#português` deve saltar para a seção PT
 - `#english` deve saltar para a seção EN
 
-- [ ] **Step 3: Preencher conteúdo personalizado (se ainda não feito)**
-
-Certifique-se de que todos os marcadores `<!-- PREENCHA: ... -->` foram substituídos por conteúdo real. Procure por eles:
-
-```bash
-grep -n "PREENCHA\|REPO_NAME" README.md
-```
-
-O comando não deve retornar nenhuma linha. Se retornar, preencha antes de fazer push.
-
-- [ ] **Step 4: Push para o GitHub**
+- [ ] **Step 3: Push para o GitHub**
 
 ```bash
 git push origin main
 ```
 
-- [ ] **Step 5: Verificar o perfil no GitHub**
+- [ ] **Step 4: Verificar o perfil no GitHub**
 
 Abra `https://github.com/W3SK3RRX` no navegador e confirme:
 - [ ] Toggle PT/EN visível no topo
@@ -444,19 +400,10 @@ Abra `https://github.com/W3SK3RRX` no navegador e confirme:
 - [ ] Animação de digitação funcionando no header EN
 - [ ] Badges de stack com cores corretas em ambas as colunas
 - [ ] Stats, streak e top-langs carregando com theme radical
-- [ ] Cards de projetos em destaque exibindo nome e linguagem
 - [ ] Links de contato clicáveis
 
 ---
 
 ## Notas de Conteúdo
 
-Antes de rodar a Task 3, tenha em mãos:
-
-| Campo | Onde preencher |
-|---|---|
-| Bio PT (3-4 linhas) | Task 3, Step 1 |
-| Bio EN (3-4 linhas) | Task 5, Step 1 |
-| Atualmente PT | Task 3, Step 1 |
-| Atualmente EN | Task 5, Step 1 |
-| Nome dos 3 repos | Task 4, Step 3 e Task 5, Step 2 |
+Decisão durante o brainstorm: usar o conteúdo default escrito nas tasks (bio e "atualmente"). O usuário pode editar manualmente depois se quiser personalizar — os marcadores `<!-- PREENCHA: ... -->` ficam como hint não-renderizado.
